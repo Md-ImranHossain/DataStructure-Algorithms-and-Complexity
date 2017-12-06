@@ -33,7 +33,6 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N) (not counting the storage required 
 for input arguments).
  */
-package lesson;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
