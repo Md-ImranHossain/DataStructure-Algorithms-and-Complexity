@@ -29,8 +29,6 @@ expected worst-case space complexity is O(1).
 
 
  */
-package lesson;
-
 /**
  *
  * @author Hossain
