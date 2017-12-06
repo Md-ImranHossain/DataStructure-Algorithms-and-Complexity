@@ -34,7 +34,6 @@ Complexity:
 expected worst-case time complexity is O(N)
 expected worst-case space complexity is O(1).
  */
-package lesson;
 
 import java.util.HashSet;
 import java.util.Iterator;
