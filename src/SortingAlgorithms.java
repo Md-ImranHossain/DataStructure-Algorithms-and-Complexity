@@ -1,4 +1,6 @@
-
+/**
+*There are four sorting algorithms here: Insertion Sort, Merge Sort, Heap Sort and Binary Tree sort
+*/
 
 import java.util.Arrays;
 
